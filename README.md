@@ -1,7 +1,7 @@
 # 🛢️ Development of an Automated Oil Dispensing System
 
 <p align="center">
-  <img src="images/Nurse_calling_1.PNG" alt="AgriBot CAD Model" width="500"/>
+  <img src="images/Oil_Dispenser_1.PNG" alt="Overview" width="500"/>
 </p>
 
 ## 🛢️ Overview
@@ -41,7 +41,7 @@ This automated setup provides:
 - A **PLC–HMI network** manages oil type selection and volume entry.
 
 <p align="center">
-  <img src="images/oil_filling_trolley.png" alt="Oil Filling Trolley" width="500"/>
+  <img src="images/Oil_Dispenser_2.PNG" alt="Oil Filling Trolley" width="500"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ This automated setup provides:
 8. Remove trolley and power off the panel.
 
 <p align="center">
-  <img src="images/oil_filling_hmi.png" alt="HMI Process" width="600"/>
+  <img src="images/Oil_Dispenser_3.PNG" alt="HMI Process" width="600"/>
 </p>
 
 ---
